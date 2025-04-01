@@ -43,11 +43,15 @@ To run the application, use the following command, replacing `<video_id>` with t
 $ python src/sumaria.py <video_id>
 ```
 
-Example summarizing [NVIDIA CEO Jensen Huang's Vision for the Future
+
+## Example
+
+Summarizing [NVIDIA CEO Jensen Huang's Vision for the Future
 ](https://www.youtube.com/watch?v=7ARBJQn6QkM) 1-hour long interview:
 
 ```
 $ python src/sumaria.py 7ARBJQn6QkM
+
 = Sumaria =
 Fetching transcript for video 7ARBJQn6QkM
 languages: en
@@ -59,16 +63,21 @@ in 138.48 seconds
 
 Took up to 2 minutes on a Mac M4 Apple M4 10-core GPU to be generated.
 
+See original [transcript](cached/7ARBJQn6QkM/transcript.txt) and resulting [summary](cached/7ARBJQn6QkM/summary.txt).
+
 ## Notes
+
+**Human:**
 
 Since the model is limited to an amount of tokens ingestion, the summary has to be broken in chunks, breaking a more integral view of what the transcription is about. A summary of the summary might be needed, since the current design asks for 4 key-points per chunk of 2000 chars. The results are still long as a 28 chunks transcript generates extensive 112 key points. The chunks should also be better broken on spaces or dots, avoiding broken words per chunk. Anyhow, better understanding the semantical chunks as a pre or post prompt is a work-to-be-done to have consice information. The correct prompting technique becames the relevant Engineering for the ideal summary.
 
-#### em brasileiro poético + LLM:
+
+**Modelo Largo de Linguagem em Brasileiro Poético:**
 
 Sobre Fragmentos, Sentido e a Busca por Clareza
 
 Limitados pelos tokens do modelo, somos levados a fragmentar o todo — quebrando o fluxo contínuo da fala em blocos digeríveis. Trocamos continuidade por viabilidade, esculpindo uma transcrição extensa em pedaços de, no máximo, 2.000 caracteres. Cada fragmento é instruído a responder os quatro pontos-chave, mas ao multiplicar isso por dezenas de partes, não se sintetiza holísticamente — acumulam-se fragmentos.
 
-Sonhamos com um resumo que soe como música: íntegro, fluido, intuitivo. Que a atenção do modelo seja conduzida não apenas à superfície, mas ao sentido original, à narrativa, à verdade da compreensão. Para chegar lá, é preciso nos desfragmentar. Que nenhuma frase seja cortada no meio do pensamento, que nenhuma palavra seja partida ao meio. Ou que se abra em loop toda representação da representação?
+Sonhamos com um resumo que soe como música: íntegro, fluido, intuitivo. Que a atenção do modelo seja conduzida não apenas à superfície, mas ao sentido original, à narrativa, à verdade da compreensão. Para chegar lá, é preciso nos desfragmentar. Que nenhuma frase seja cortada no meio do pensamento, que nenhuma palavra seja partida ao meio - ou que rasgue em loop toda representação da representação?
 
 Aqui delineamos os limites da síntese rasa — até que ela aprenda a respeitar a voz de quem fala.
