@@ -21,7 +21,7 @@ different than other interviews I've seen you do recently. Okay! I'm not going t
 questions about - you could ask - company finances, thank you! I'm not going to ask you questions 
 about your management style or why you do
 -> summary ->
-*   The discussion centers on a fundamental transformation in computing, driven by advancements in hardware and software, specifically those pioneered by NVIDIA.
-*   Jensen Huang, as CEO of NVIDIA, is identified as a pivotal figure whose decisions are currently shaping advancements across diverse sectors including artificial intelligence, robotics, and automotive technology.
-*   Significant investment in NVIDIA’s technological development represents a key factor in the current surge of innovation within the technology industry.
-*   The interview highlights a projected trajectory of continued technological progress, suggesting that NVIDIA’s influence will become increasingly critical in shaping future technological developments.
+*   A fundamental shift in computing architecture is underway, driven primarily by NVIDIA’s advancements in chip design and software.
+*   Jensen Huang’s strategic decisions at NVIDIA are fundamentally reshaping technological development across diverse sectors, including artificial intelligence, robotics, gaming, autonomous vehicles, and medical research.
+*   Significant investments, exceeding tens of billions of dollars, have been made in NVIDIA’s technology, positioning it as a dominant force in the evolution of computing.
+*   The interview highlights a long-term impact of Huang’s leadership, suggesting this is only the initial phase of a transformative technological trajectory.

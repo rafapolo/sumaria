@@ -21,7 +21,7 @@ the vision for what you see coming next? In order to talk about this big moment 
 I think we need to go back to video games in the '90s. At the time I know game developers wanted 
 to create more realistic lo
 -> summary ->
-*   The primary objective is to produce optimistic explainer videos targeted at a broad audience lacking technical expertise, facilitating the construction of a desired future.
-*   The focus will be on elucidating the historical trajectory of advancements in computing, specifically tracing the origins of the current paradigm shift.
-*   The exploration will encompass a detailed analysis of ongoing technological developments, acknowledging the complexity of the current landscape.
-*   The ultimate goal is to articulate a prospective vision of the future, leveraging insights from areas such as video game development to contextualize the impact of artificial intelligence.
+*   The discussion centers on producing optimistic explainer videos targeted at a broad audience lacking technical expertise.
+*   A primary goal is to facilitate the visualization of potential future advancements, particularly concerning the application of technology for positive societal outcomes.
+*   The project will investigate the historical trajectory of computing innovation, specifically referencing developments in video games of the 1990s to contextualize current trends.
+*   The planned content will examine the present state of technological advancement and delineate a forward-looking vision, encompassing inquiries into key insights and projected future developments related to artificial intelligence.

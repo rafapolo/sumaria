@@ -21,10 +21,7 @@ stations start cropping up on highways and and fast food restaurants show up and
 know someone, some motels show up because people you know traveling across the state, across the 
 country and just wanted to stay somewhere for a few hours or overnight, and so a
 -> summary ->
-The pursuit of predicting the future is fundamentally driven by a desire to optimize technological advancements and their impact.
-
-Significant shifts in computing over recent decades have positioned NVIDIA as a key player, reflecting a transition towards dramatically accelerated processing capabilities.
-
-Individuals should consider the implications of increasingly efficient work processes – analogous to the changes brought about by the interstate highway system – wherein reduced effort and automation reshape industries and consumer behaviors. 
-
-Preparing for the future necessitates acknowledging the potential for transformative changes in productivity, distribution, and spatial organization, ultimately altering the landscape of economic activity and personal experiences.
+*   Scientists pursue future prediction to optimize design and understand a significant shift in computing over the past decades.
+*   Individuals should consider how the reduction of effort in their work – exemplified by transitioning from lengthy tasks to instantaneous ones – will fundamentally alter their professional landscape.
+*   The analogy of interstate highways illustrates the transformative impact of readily accessible infrastructure, leading to spatial shifts in economic activity and the emergence of new industries and services.
+*   Preparing for this future requires acknowledging the profound changes in productivity and distribution, recognizing the potential for unprecedented access to resources and opportunities.

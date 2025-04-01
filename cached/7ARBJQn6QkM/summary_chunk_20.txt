@@ -21,10 +21,7 @@ this instrument that is a time machine and we need time machines in all of these
 we just talked about so that we can see the future. And if we could see the future and 
 we can predict the future then we have a better chance of making tha
 -> summary ->
-*   Significant investment is being directed towards the integration of Omniverse and Cosmos to establish a novel generative world system, deemed crucial for the advancement of robotics and physical systems.
-
-*   Ongoing research focuses on human-robot interaction, specifically the development of tooling systems, training methodologies, and human demonstration technologies, anticipating transformative developments over the next five years.
-
-*   Exploration of digital biology is central, with the goal of deciphering the “language” of molecules and cells to create accurate digital twins of the human body and predict biological processes.
-
-*   Research extends into climate science, prioritizing high-resolution regional climate prediction and weather pattern forecasting to unlock profound implications for understanding and addressing environmental challenges.
+*   The integration of Omniverse and Cosmos is envisioned as a transformative generative world system, holding significant potential for advancements within robotics and physical systems.
+*   Ongoing research focuses on the development of human-robot tooling, training, and demonstration systems, anticipating substantial developments over the next five years.
+*   Exploration of digital biology aims to decipher the “language” of molecules and cells, ultimately enabling the creation of accurate digital twins of the human body.
+*   Significant efforts are dedicated to high-resolution climate science, specifically the accurate prediction of regional weather patterns at a kilometer-level, with profound implications for forecasting.

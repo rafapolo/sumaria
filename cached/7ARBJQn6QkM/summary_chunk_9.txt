@@ -21,10 +21,7 @@ can you learn from experience? Data is basically digital versions of human exper
 can you learn? You obviously can learn object recognition from images. You can learn speech 
 from just listening 
 -> summary ->
-*   A foundational conviction is the necessity of investing in self-development to drive long-term organizational success, exemplified by substantial prior investments despite a decade-long period of uncertainty.
-
-*   The core belief centers on accelerated computing, specifically the strategic combination of parallel processing to achieve enhanced computational capabilities.
-
-*   A critical tenet involves the recognition of deep neural networks (DNNs) and their inherent scalability, predicated on the empirically demonstrated capacity to learn increasingly complex patterns through expanded model size and data volume.
-
-*   Ultimately, the organization’s approach is rooted in the assumption that data—representing digitized human experience—serves as the primary source for knowledge acquisition and learning, irrespective of inherent architectural or mathematical constraints.
+*   A fundamental belief centers on accelerated computing, specifically the parallel processing of data to achieve enhanced computational outcomes.
+*   The recognition of deep neural networks (DNNs) and their capacity for learning complex patterns through scalable architectures, driven by increasing model and data size, remains a core tenet.
+*   Data is considered the primary source of knowledge, functioning as a digital representation of human experience, capable of generating substantial learning opportunities.
+*   Scaling computational resources and data volume is seen as the key determinant of learning potential, with no inherent limitations anticipated beyond physical, architectural, or mathematical constraints.

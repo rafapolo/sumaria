@@ -21,6 +21,6 @@ now becomes: How can I apply AI to digital biology? How can I apply AI to climat
 I apply AI to agriculture, to fishery, 
 -> summary ->
 *   Deep learning models have demonstrated the capacity to learn and translate across diverse data modalities, including text, images, and amino acid sequences.
-*   This capability enables applications such as text summarization, language translation, image generation, and captioning, alongside the potential for generating protein structures and robot action tokens.
-*   The future of AI development will shift from foundational scientific research to applied research, focusing on practical applications in fields like digital biology, climate technology, and agriculture.
-*   Significant technological advancements are anticipated within the next decade, with predictions indicating a transformative impact across numerous sectors due to the expanding capabilities of AI.
+*   This capability encompasses tasks such as text summarization, language translation, image generation, captioning, and predicting protein structures.
+*   The advancement signifies a shift toward "application science" of AI, moving beyond foundational research to practical applications in fields like digital biology, climate technology, and agriculture.
+*   The potential for future development is considered immense, with a projected transformation across multiple sectors within the next decade, driven by the focused application of AI technologies.

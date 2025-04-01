@@ -20,7 +20,7 @@ of different, if we're training something on this table, many different kinds of
 table, many different times of day, many different you know experiences for the robot to go through 
 so that it can get even more out of Omniverse. As a kid who grew up loving Data on
 -> summary ->
-*   The discussion centers on applying artificial intelligence across diverse sectors, including robotics, transportation, and logistics optimization.
-*   A significant advancement is emerging through the shift towards training robots in digital environments, facilitating dramatically increased repetition and accelerated learning.
-*   NVIDIA’s Omniverse platform, alongside the newly announced Cosmos, provides 3D worlds designed to simulate real-world conditions for robotic training, reducing reliance on physical training and potential damage.
-*   This technological progression represents a potential “big bang” moment in robotics, enabling robots to acquire a greater volume of experience and enhance their operational capabilities.
+*   The conversation centers on the application of artificial intelligence, particularly within the context of transformative changes in computing and their impact on everyday experiences.
+*   A significant shift is occurring in robotics training, moving from reliance on physical world training – potentially leading to damage or limited data – to accelerated learning through digital simulations.
+*   NVIDIA’s Omniverse platform, alongside the recently announced Cosmos, facilitates this transition by providing expansive, realistic 3D environments for robotic system training, enabling vastly increased repetition and diverse experiential learning.
+*   The discussion highlights a potential “big bang moment” for robotics, driven by the capacity to create more comprehensive training scenarios in digital spaces, ultimately improving robotic capabilities.

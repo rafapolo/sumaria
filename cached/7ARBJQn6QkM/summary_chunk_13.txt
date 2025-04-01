@@ -20,7 +20,7 @@ know the the idea that you'll be pushing around a lawn mower is already kind of 
 maybe people do it because because it's fun but but there's no need to. And every car is 
 going to be robotic. Humanoid robots,
 -> summary ->
-*   The system, analogous to language models like ChatGPT, leverages a “world model” driven by simulation.
-*   Grounding the model’s output is achieved through integration with physical simulations based on established Newtonian physics.
-*   This approach enables the generation of an unlimited number of future scenarios, anchored in verifiable physical realities.
-*   The combination of simulation and the world model promises significantly accelerated learning and adaptation, impacting areas like robotics and automation.
+*   The system operates as a “world model,” analogous to language models like ChatGPT, leveraging a core capability to generate potentially infinite scenarios.
+*   Grounding is achieved through integration with physical simulations, specifically utilizing Newtonian physics within Omniverse to provide a foundation for generated content.
+*   The combination of Omniverse and Cosmos enables the creation of numerous future-oriented narratives, constrained by established physical laws, effectively addressing complex, multi-faceted questions.
+*   This technology’s application – exemplified by robot training scenarios – promises drastically accelerated learning processes compared to traditional, manual methods.

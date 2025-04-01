@@ -22,10 +22,7 @@ encoded into a world foundation model so that the AI has world common sense. Oka
 have to go, somebody has to go create that, and that's what we did with Cosmos. We created a world 
 
 -> summary ->
-*   Large language models, such as ChatGPT, initially demonstrated the capacity to generate text from prompts, though this capability was frequently accompanied by inaccuracies or “hallucinations” stemming from a lack of grounded truth.
-
-*   Subsequent advancements in language models incorporated contextual conditioning, enabling them to incorporate information from uploaded documents (e.g., PDFs) and search results as verifiable foundations for their responses.
-
-*   The development of world models—analogous to foundation models for language—is crucial for robotics to achieve genuine understanding of the physical environment.
-
-*   These world models must encode fundamental physical principles, including concepts like gravity, object permanence, and cause-and-effect relationships, to provide robots with “world common sense.”
+*   Generative AI, exemplified by models like ChatGPT, demonstrates the capacity to produce plausible text outputs based on prompts, though this capability is susceptible to inaccuracies or “hallucinations” when dealing with unfamiliar or extended topics.
+*   Subsequent advancements in AI involve “ground truth” incorporation, enabling systems to be anchored by external data sources such as uploaded PDFs or search results, thereby improving response accuracy and reliability.
+*   The development of a “world foundation model” is crucial for robotics, requiring the encoding of physical principles such as gravity, friction, and object permanence to facilitate understanding of the physical environment.
+*   This world foundation model must capture basic “common sense” regarding cause and effect, spatial awareness, and object permanence, allowing robots to operate effectively within the physical world.

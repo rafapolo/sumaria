@@ -20,10 +20,7 @@ that's always the cynic's perspective however the optimist's perspective would s
 if you don't build it, they can't come. And that's usually how we look at the world. You know we 
 have to reason about intuitively why this would be very useful
 -> summary ->
-The company’s initial confidence in CUDA stemmed from the anticipated high volume of NVIDIA’s GPUs, driven by the expansive video game market and the potential for widespread computational access.
-
-The success of AlexNet, a neural network system employing extensive data training on NVIDIA GPUs, demonstrated the platform’s efficacy in computationally intensive tasks.
-
-The 2012 AlexNet victory fundamentally shifted the perception of GPUs, transitioning them from primarily accelerating traditional computing to becoming central to the development of artificial intelligence.
-
-This transition marked a significant paradigm shift, moving from step-by-step instruction-based computing towards training systems through large-scale data examples, a trend now widely recognized as foundational to the current surge in AI innovation.
+*   The initial confidence in CUDA’s success stemmed from NVIDIA’s projected market leadership in high-volume parallel processors, particularly due to the expansive video game market.
+*   A pivotal moment occurred in 2012 when a research team utilized NVIDIA GPUs to develop AlexNet, a neural network system that decisively outperformed all competitors in an image recognition challenge.
+*   The use of massive datasets for training AlexNet demonstrated GPUs’ emerging role as the foundational engines for a new paradigm of computing, shifting from step-by-step instruction to data-driven learning.
+*   This development, specifically the success of AlexNet, initiated a transformative shift within the computing landscape, fundamentally reshaping the trajectory of artificial intelligence.

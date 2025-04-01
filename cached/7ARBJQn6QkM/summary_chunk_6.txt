@@ -21,10 +21,7 @@ we rightfully reasoned that if machine learning, if the deep learning architectu
 the vast majority of machine learning problems could be represented with deep neural networks. And 
 the type of problems we could solve with mac
 -> summary ->
-*   Researchers at the University of Toronto, utilizing a GeForce GTX 580, identified CUDA’s potential as a parallel processor for training AlexNet, initially driven by a strategic hope for wider adoption.
-
-*   Concurrent company efforts to develop CUDA for computer vision, alongside internal frustrations, heightened interest in AlexNet’s performance and its novel approach to the field.
-
-*   The success of AlexNet prompted a critical inquiry into the algorithm’s scalability and its implications for broader machine learning applications, particularly deep neural networks.
-
-*   This observation led to the reasoned conclusion that deep learning architectures, if scalable, could effectively address a vast majority of machine learning problems, significantly impacting computer industry architecture.
+*   Researchers at the University of Toronto leveraged the GeForce GTX 580’s CUDA capabilities, anticipating a parallel processing solution for training AlexNet.
+*   Concurrent company efforts to develop CUDA for computer vision were hampered, creating a context for observing AlexNet’s unexpectedly advanced performance.
+*   The emergence of AlexNet prompted an inquiry into its potential scalability, specifically concerning its applicability to broader machine learning challenges.
+*   The observed success of AlexNet suggested a paradigm shift within the computer industry, positing that deep learning architectures could effectively address a significant proportion of machine learning problems.

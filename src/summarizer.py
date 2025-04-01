@@ -3,6 +3,13 @@ import re
 
 class Summarizer:
 
+    PROMPT_TEMPLATE = (
+        "Summarize the following transcript into a clear, executive summary without an intro paragraph, "
+        "with exactly 4 key bullet points in the same original language about what is discussed. "
+        "Avoid notes, avoid quoting the reader, and instead paraphrase in concise academic language "
+        "that captures the essence of the sentences. Do not refer to yourself, and do not explain your choices."
+    )
+
     def prompt(self, text):
         model_url = "http://localhost:11434/api/generate"
         payload = {            
@@ -25,9 +32,8 @@ class Summarizer:
 
         summaries = []
         for chunk in chunks:
-            chunk_summary = self.prompt(
-                f"Summarize the following transcript into a clear, executive summary without intro paragraph with only 4 key bullet points, in the same original language about what is talked about. Avoid notes, avoid quoting the reader and instead paraphrase in concise academic language that captures the essence of the sentences. Don't refer to yourself and do not explain your choices. Do not make notes. (Transcript: {chunk})"
-            )
+        
+            chunk_summary = self.prompt(f"{self.PROMPT_TEMPLATE} (Transcript: {chunk})")
             summaries.append(chunk_summary)            
             open(f"./cached/{video_id}/summary_chunk_{chunks.index(chunk)}.txt", "w").write(f"{chunk}\n-> summary ->\n{chunk_summary}")
         
@@ -36,4 +42,5 @@ class Summarizer:
         summary = re.sub(r'Executive Summary:\s*', '', summary)
         summary = re.sub(r'(\*\s+.*?)\n{2,}(?=\*\s+)', r'\1\n', summary, flags=re.DOTALL)
         open(f"./cached/{video_id}/summary.txt", "w").write(summary)
+        
         return summary

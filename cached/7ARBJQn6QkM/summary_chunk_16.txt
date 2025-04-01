@@ -21,7 +21,7 @@ bulb would be right now instead of 100 Watts, 10,000 times less producing the sa
 Yeah and so the energy efficiency of computing particularly for AI computing that we've 
 been working on has adva
 -> summary ->
-*   Current computational limitations are fundamentally shaped by the physical constraints of information transport and the energy required for bit manipulation, differing significantly from traditional CPU improvements.
-*   Energy expenditure remains a primary determinant of computing capabilities, presenting a key area of focus for technological advancement.
-*   Significant strides in computing efficiency have been achieved, with energy efficiency increasing by a factor of 10,000 since 2016, exemplified by the DIGITS AI supercomputer prototype.
-*   The pursuit of greater energy efficiency in computing, particularly within AI applications, represents a transformative opportunity with implications extending beyond just computational performance.
+*   The transition to parallel processing represents a distinct shift from CPU-based improvements, fundamentally altering computational possibilities.
+*   Current technological limitations are primarily dictated by the energy constraints associated with information transport and bit manipulation within physical laws.
+*   Significant advancements in AI computing, specifically focusing on energy efficiency, have occurred since 2016, demonstrating a 10,000-fold increase in efficiency compared to earlier systems like the DGX 1.
+*   The pursuit of greater energy efficiency in computing, particularly for artificial intelligence, remains a key area of development, with potential implications comparable to dramatic improvements in conventional technologies.

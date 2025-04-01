@@ -21,10 +21,7 @@ is probably seeing and hearing so much more about AI and NVIDIA specifically 10 
 why did it take a decade and also because you had placed those bets, what did the middle 
 of that decade feel like for you? Wow that'
 -> summary ->
-The rapid expansion of machine learning necessitated a fundamental re-engineering of the computing stack, leading to the development of DGX. 
-
-Significant advancements in parallel processing, facilitated by CUDA and GPU technology, drove a transformative shift across various industries, particularly in neural networks.
-
-The emergence of solutions to previously intractable problems within computer vision, speech recognition, and language understanding occurred at an accelerated pace, largely due to advancements in GPU-accelerated computing.
-
-Strategic investments in this area, beginning in 2012, represented high-stakes bets concerning the future of artificial intelligence, with a considerable time lapse between initial investment and observable results.
+*   The evolution of computing necessitated a fundamental re-engineering of the entire computing stack, leading to the development of systems like DGX.
+*   Parallel processing, facilitated by technologies such as CUDA and GPUs, fundamentally altered industries including gaming and subsequently enabled a rapid advancement in neural networks and machine learning.
+*   A series of breakthroughs, particularly starting in 2012 with innovations like AlexNet, dramatically resolved previously intractable problems in areas such as computer vision, speech recognition, and language understanding.
+*   Strategic investments in AI and NVIDIA, made with a long-term perspective, faced a perceived disparity between initial predictions and the actual timeline of technological development.

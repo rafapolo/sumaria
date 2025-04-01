@@ -21,7 +21,7 @@ You can't just randomly ask a bunch of questions and so asking an AI to be assis
 to you requires some expertise and artistry and how to prompt it. And so if I were, 
 if I were a student
 -> summary ->
-*   Artificial intelligence will fundamentally alter human capabilities by automating routine tasks, enabling individuals to dedicate their cognitive resources to uniquely valuable endeavors.
-*   The accessibility of AI technology is projected to dramatically increase, transitioning from specialized, high-cost research systems to widely available, affordable consumer-grade devices.
-*   The proliferation of AI is anticipated across diverse professional and educational sectors, representing a shift towards ubiquitous integration within computing infrastructure.
-*   Effective interaction with advanced AI models necessitates a focus on developing sophisticated prompting skills, mirroring the expertise required for skilled questioning and requiring artistic aptitude for optimal outcomes.
+*   Artificial intelligence will fundamentally shift human capabilities by automating routine tasks, allowing individuals to concentrate on uniquely valuable endeavors.
+*   The accessibility of advanced AI technology is predicted to dramatically decrease, with production costs expected to fall from $250,000 to $3,000, making it available to a broader range of users including students and general engineers.
+*   AI is poised to become ubiquitous, transitioning from specialized research environments to widespread integration within personal computing devices and educational settings.
+*   Proficiency in interacting with generative AI models – specifically through effective prompting and question formulation – is identified as a critical skill for individuals seeking to leverage the technology’s full potential.

@@ -20,7 +20,7 @@ lowered a barrier of intelligence, and and everybody really had to just go try 
 it. You know the thing that's really really crazy is if I put a computer in front of somebody and 
 they've never used a computer there is no chance they're going to lear
 -> summary ->
-*   The fundamental shift involves proactively integrating artificial intelligence into professional workflows across all scientific and professional disciplines.
-*   Individuals are increasingly confronting the necessity of determining how AI can enhance their job performance, mirroring a previous transition with the introduction of computers.
-*   Accessibility of AI tools, exemplified by platforms like ChatGPT, is dramatically reducing the barriers to knowledge acquisition and problem-solving within professions.
-*   This represents a generational change where the initial focus is on leveraging AI, while subsequent generations will undoubtedly grapple with the evolving capabilities of intelligent systems.
+*   The fundamental approach across all professions—including science and law—should involve exploring the potential applications of artificial intelligence to enhance job performance.
+*   Individuals are confronting a generational shift, mirroring the initial adoption of computers, where the primary focus is on determining how to leverage AI to improve professional tasks.
+*   The accessibility of AI tools, such as ChatGPT, is rapidly decreasing the need for independent research and knowledge acquisition, fundamentally altering workflows.
+*   This evolving landscape presents both excitement and concern, highlighting the imperative for widespread experimentation and adaptation within various disciplines.

@@ -21,7 +21,7 @@ and so there there are multiple multiple factors that were coming together in th
 just when the time came and we decided to do something proper and created a CUDA as 
 a result of that. 
 -> summary ->
-*   The initial strategy involved manipulating GPUs to appear as if problems originated from graphics processing, representing an early workaround.
-*   CUDA emerged as a platform facilitating programmer access to GPU computing power through familiar languages like C, broadening computational accessibility.
-*   The development of CUDA was driven by a confluence of factors, including external inspiration from medical imaging research utilizing GPUs for CT reconstruction, and internal needs for realistic dynamic simulations in video game development.
-*   Concurrent research into general-purpose GPU acceleration across diverse fields—including medical imaging and video game simulation—contributed significantly to the genesis of CUDA.
+*   The initial strategy involved manipulating GPUs to simulate graphics issues, reflecting a deliberate approach to accessibility.
+*   CUDA emerged as a platform enabling programmers to utilize GPUs through familiar languages like C, thereby expanding computational resources to a broader audience.
+*   The development of CUDA was influenced by both external research, notably in medical imaging applications of GPU parallel processing, and internal company needs to create visually dynamic virtual environments for video games.
+*   Multiple factors, including researcher experimentation with general-purpose GPU acceleration and the demand for realistic simulations within the gaming market, contributed to the eventual creation and formalization of the CUDA platform.

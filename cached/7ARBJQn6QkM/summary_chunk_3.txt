@@ -21,10 +21,7 @@ how we see what's possible with computers and my understanding is that in the ea
 see this and you realize that actually doing that is a little bit difficult because what that 
 researcher 
 -> summary ->
-NVIDIA’s success is fundamentally driven by the synergistic relationship between technological innovation and market adoption, functioning as a key “flywheel.”
-
-The company’s graphical processing units (GPUs) enable accelerated computation, facilitating a “time-travel” effect by allowing users to observe future outcomes more rapidly.
-
-This capability is particularly evident in computationally intensive fields such as weather prediction, virtual simulations, and autonomous vehicle development.
-
-The initial momentum derived from parallel processing within the gaming industry has since expanded across diverse sectors, dramatically altering perceptions of computer processing potential.
+*   NVIDIA's strategic focus on gaming facilitated the development of parallel processing technology, establishing a critical “flywheel” for company growth and prominence.
+*   The architecture of Graphics Processing Units (GPUs) enables accelerated computation, effectively allowing users to observe future outcomes in applications such as weather prediction and complex simulations.
+*   This capability dramatically altered the landscape of scientific research, exemplified by a quantum chemistry researcher’s ability to conduct long-term simulations within a single lifetime, previously considered unattainable.
+*   The advancement in parallel processing, initially driven by gaming, has fundamentally transformed numerous industries, reshaping expectations regarding computational capabilities.

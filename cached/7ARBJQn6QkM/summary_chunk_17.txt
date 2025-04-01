@@ -20,7 +20,7 @@ core beliefs? And the question, the core belief either one, that transformer is 
 algorithm, AI architecture that any researcher will ever discover again, or that transformers 
 is a stepping stone towards evolutions of transformers that are uh bar
 -> summary ->
-*   The primary focus is on energy efficiency within computing systems, recognizing its critical role in developing more sophisticated AI technologies.
-*   Increasing accessibility and abstraction through technologies like CUDA are acknowledged as a key strategy for expanding computational power utilization.
-*   A central debate exists concerning hardware design, specifically the balance between creating highly specialized chips tailored to particular AI architectures versus developing more general-purpose systems.
-*   The core belief regarding the future of AI architecture is being examined, with a consideration of whether transformer models represent a definitive endpoint or merely a transitional phase for subsequent advancements.
+*   The primary focus is on developing intelligent systems utilizing increased computational power, necessitating a paramount concern for energy efficiency.
+*   There’s an ongoing debate regarding hardware design strategies, specifically weighing the investment in highly specialized chips tailored to individual AI models versus maintaining a more general-purpose architecture.
+*   The rise of sophisticated AI structures, such as transformers, presents a strategic dilemma concerning whether to “burn” specialized functionality into hardware or pursue adaptable designs.
+*   A core belief—whether transformers represent the definitive, final AI architecture or serve as a transitional technology toward subsequent advancements—underpins the decision-making process for hardware development.

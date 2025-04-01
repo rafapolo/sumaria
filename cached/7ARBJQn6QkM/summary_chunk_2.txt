@@ -21,10 +21,7 @@ that video games has potential to be the largest market for for entertainment ev
 out to be true. And having it being a large market is important because the technology is complicated 
 and if we had a large market, our R&D budget could be large
 -> summary ->
-Early computer architecture presented a fundamental inefficiency, with a small percentage of code handling the vast majority of processing tasks sequentially. 
-
-The observation that computers could benefit from simultaneously executing both sequential and parallel processing led to the conceptualization of a new computing paradigm.
-
-NVIDIA initially focused on video games as a prime application for this parallel processing approach, recognizing the industry's demand for enhanced 3D graphics rendering.
-
-A large entertainment market provided the necessary scale to justify the considerable research and development investment required to create and refine the first modern GPU technology.
+*   Early computer architecture demonstrated that a small percentage of code (approximately 10%) was responsible for the majority of processing tasks, while the remaining 90% required sequential execution.
+*   The core insight driving NVIDIA’s creation was the development of a computing system capable of simultaneously handling both sequential and parallel processing requirements.
+*   The initial focus on video games was strategically selected due to the inherent need for parallel processing in rendering 3D graphics and the anticipated size of the entertainment market.
+*   A significant market size was deemed crucial for supporting the complex research and development needed to advance the technology and secure substantial R&D funding.

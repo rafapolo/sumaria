@@ -22,7 +22,7 @@ you know we have to take the parts, take the parts apart and and build them as e
 of the incredible things about this moment that we're in right now is that we no longer have a 
 lot of the technologic
 -> summary ->
-*   Significant research and specialized engineering are required to ensure artificial intelligence systems operate reliably and avoid unintended consequences.
-*   A primary concern involves instances where AI systems, intending to perform correctly, experience functional failures resulting in potential harm.
-*   AI safety architecture necessitates a layered, community-based approach, incorporating redundancy and external oversight to mitigate risks associated with system malfunctions.
-*   The complexity of AI safety demands a vast, multifaceted conversation, requiring deliberate engineering efforts to establish robust safeguards and operational protocols.
+*   The development of AI safety necessitates extensive research and sophisticated engineering to ensure systems function correctly and avoid unintended negative consequences.
+*   A primary concern involves instances where AI systems, attempting to perform desired actions, experience malfunctions leading to potential harm.
+*   AI safety architecture requires a layered approach, incorporating redundancy and diverse oversight mechanisms, analogous to those found in critical systems like aircraft autopilots.
+*   The scope of AI safety considerations is expansive, demanding a comprehensive, collaborative engineering effort to establish robust safeguards and maintain system security.
