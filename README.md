@@ -1,4 +1,4 @@
-An experiment using Co-Pilot and prompting to summarize youtube videos as key-points text with open-source [models](https://ollama.com/search) with Python.
+An experiment using Co-Pilot and prompting to summarize youtube videos as key-points text with open-source [models](https://ollama.com/search) and Python.
 
 # SumarIA
 
