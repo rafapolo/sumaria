@@ -43,9 +43,8 @@ To run the application, use the following command, replacing `<video_id>` with t
 $ python src/app.py <video_id>
 ```
 
-Big transcripts summaries like 1-hour long interview take up to 2 minutes on a Mac M4 to be generated. 
-
-For example, when to summarizing [this](https://www.youtube.com/watch?v=7ARBJQn6QkM) video:
+Example summarizing [NVIDIA CEO Jensen Huang's Vision for the Future
+](https://www.youtube.com/watch?v=7ARBJQn6QkM) 1-hour long interview:
 
 ```
 $ python src/sumaria.py 7ARBJQn6QkM
@@ -58,6 +57,7 @@ saved at ./cached/7ARBJQn6QkM/summary.txt
 in 138.48 seconds
 ```
 
+Took up to 2 minutes on a Mac M4 Apple M4 10-core GPU to be generated.
 
 ## Notes
 
@@ -67,8 +67,8 @@ Since the model is limited to an amount of tokens ingestion, the summary has to 
 
 Sobre Fragmentos, Sentido e a Busca por Clareza
 
-Limitados pelos tokens do modelo, somos levados a fragmentar o todo — quebrando o fluxo contínuo da fala em blocos digeríveis. Trocamos continuidade por viabilidade, esculpindo uma transcrição extensa em pedaços de, no máximo, 2.000 caracteres. Cada fragmento é instruído a reposnder os quatro pontos-chave, mas ao multiplicar isso por dezenas de partes, centenas de fragmentos não sintetizam — acumulam fragmentos.
+Limitados pelos tokens do modelo, somos levados a fragmentar o todo — quebrando o fluxo contínuo da fala em blocos digeríveis. Trocamos continuidade por viabilidade, esculpindo uma transcrição extensa em pedaços de, no máximo, 2.000 caracteres. Cada fragmento é instruído a responder os quatro pontos-chave, mas ao multiplicar isso por dezenas de partes, não se sintetiza holísticamente — acumulam-se fragmentos.
 
-Sonhamos com um resumo que soe como música: íntegro, fluido, intuitivo. Que a atenção do modelo seja conduzida não apenas à superfície, mas ao sentido original, à narrativa, à verdade da compreensão. Para chegar lá, é preciso nos desfragmentar. Que nenhuma frase seja cortada no meio do pensamento, que nenhuma palavra seja partida ao meio.
+Sonhamos com um resumo que soe como música: íntegro, fluido, intuitivo. Que a atenção do modelo seja conduzida não apenas à superfície, mas ao sentido original, à narrativa, à verdade da compreensão. Para chegar lá, é preciso nos desfragmentar. Que nenhuma frase seja cortada no meio do pensamento, que nenhuma palavra seja partida ao meio. Ou que se abra em loop toda representação da representação?
 
-Aqui delineamos os limites da síntese semântica rasa — até que ela aprenda a respeitar a voz de quem fala.
+Aqui delineamos os limites da síntese rasa — até que ela aprenda a respeitar a voz de quem fala.
