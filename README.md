@@ -7,7 +7,7 @@ Sumaria is designed to fetch transcripts from YouTube videos and generate concis
 ## Project Structure
 
 ```
-sumaria-project
+sumaria
 ├── src
 │   ├── sumaria.py            # Entry point of the application
 │   ├── summarizer.py         # Class for generating prompting gemma3
@@ -40,7 +40,7 @@ $ llama serve # at http://localhost:11434
 To run the application, use the following command, replacing `<video_id>` with the ID of the YouTube video you want to summarize:
 
 ```
-$ python src/app.py <video_id>
+$ python src/sumaria.py <video_id>
 ```
 
 Example summarizing [NVIDIA CEO Jensen Huang's Vision for the Future
