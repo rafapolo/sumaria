@@ -1,0 +1,26 @@
+to robotics, to transportation, optimizing logistics? How can 
+I apply AI to you know teaching? How do I apply AI to you know podcasting right? I'd love to 
+choose a couple of those to help people see how this fundamental change in computing that we've 
+been talking about is actually going to change their experience of their lives, how they're 
+actually going to use technology that is based on everything we just talked about. One of the 
+things that I've now heard you talk a lot about and I have a particular interest in is physical 
+AI. Or in other words, robots - "my friends!" - meaning humanoid robots but also robots like self-driving 
+cars and smart buildings or autonomous warehouses or autonomous lawnmowers or more. From what 
+I understand, we might be about to see a huge leap in what all of these robots are capable of 
+because we're changing how we train them. Up until recently you've either had to train your robot in 
+the real world where it could get damaged or wear down or you could get data from fairly limited 
+sources like humans in motion capture suits. But that means that robots aren't getting as many 
+examples as they'd need to learn more quickly. But now we're starting to train robots in digital 
+worlds, which means way more repetitions a day, way more conditions, learning way faster. So we could 
+be in a big bang moment for robots right now and NVIDIA is building tools to make that happen. You 
+have Omniverse and my understanding is this is 3D worlds that help train robotic systems so that 
+they don't need to train in the physical world. That's exactly right. You just just announced 
+Cosmos which is ways to make that 3D universe much more realistic. So you can get all kinds 
+of different, if we're training something on this table, many different kinds of lighting on the 
+table, many different times of day, many different you know experiences for the robot to go through 
+so that it can get even more out of Omniverse. As a kid who grew up loving Data on
+-> summary ->
+*   The discussion centers on applying artificial intelligence across diverse sectors, including robotics, transportation, and logistics optimization.
+*   A significant advancement is emerging through the shift towards training robots in digital environments, facilitating dramatically increased repetition and accelerated learning.
+*   NVIDIA’s Omniverse platform, alongside the newly announced Cosmos, provides 3D worlds designed to simulate real-world conditions for robotic training, reducing reliance on physical training and potential damage.
+*   This technological progression represents a potential “big bang” moment in robotics, enabling robots to acquire a greater volume of experience and enhance their operational capabilities.

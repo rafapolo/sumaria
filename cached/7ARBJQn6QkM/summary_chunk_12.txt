@@ -1,0 +1,31 @@
+ Star Trek, Isaac 
+Asimov's books and just dreaming about a future with robots, how do we get from the robots that we have 
+now to the future world that you see of robotics? Yeah let me use language models maybe ChatGPT 
+as a reference for understanding Omniverse and Cosmos. So first of all when ChatGPT first 
+came out it, it was extraordinary and it has the ability to do to basically from 
+your prompt, generate text. However, as amazing as it was, it has the tendency to hallucinate if
+it goes on too long or if it pontificates about a topic it you know is not informed about, it'll 
+still do a good job generating plausible answers. It just wasn't grounded in the truth. And so
+people called it hallucination. And so the next generation shortly it was, it had 
+the ability to be conditioned by context, so you could upload your PDF and now it's grounded 
+by the PDF. The PDF becomes the ground truth. It could be it could actually look up search and 
+then the search becomes its ground truth. And between that it could reason about what is how 
+to produce the answer that you're asking for. And so the first part is a generative AI and the 
+second part is ground truth. Okay and so now let's come into the the physical world. The
+world model, we need a foundation model just like we need ChatGPT had a core foundation model 
+that was the breakthrough in order for robotics to to be smart about the physical world. It has to 
+understand things like gravity, friction, inertia, geometric and spatial awareness. It has to uh 
+understand that an object is sitting there even when I looked away when I come back it's still 
+sitting there, object permanence. It has to understand cause and effect. If I tip it, it'll 
+fall over. And so these kind of physical common sense if you will has to be captured or 
+encoded into a world foundation model so that the AI has world common sense. Okay and so we 
+have to go, somebody has to go create that, and that's what we did with Cosmos. We created a world 
+
+-> summary ->
+*   Large language models, such as ChatGPT, initially demonstrated the capacity to generate text from prompts, though this capability was frequently accompanied by inaccuracies or “hallucinations” stemming from a lack of grounded truth.
+
+*   Subsequent advancements in language models incorporated contextual conditioning, enabling them to incorporate information from uploaded documents (e.g., PDFs) and search results as verifiable foundations for their responses.
+
+*   The development of world models—analogous to foundation models for language—is crucial for robotics to achieve genuine understanding of the physical environment.
+
+*   These world models must encode fundamental physical principles, including concepts like gravity, object permanence, and cause-and-effect relationships, to provide robots with “world common sense.”

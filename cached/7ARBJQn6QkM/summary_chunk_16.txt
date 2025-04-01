@@ -1,0 +1,27 @@
+al limits that we had in a world of CPUs and sequential processing. And we've 
+unlocked not only a new way to do computing and and but also a way to continue to improve. Parallel 
+processing has a a different kind of physics to it than the improvements that we were able to make 
+on CPUs. I'm curious, what are the scientific or technological limitations that we face now in 
+the current world that you're thinking a lot about? Well everything in the end is about how much 
+work you can get done within the limitations of the energy that you have. And so that's 
+a physical limit and the laws of physics about transporting information and 
+transporting bits, flipping bits and transporting bits, at the end of the day the energy it takes 
+to do that limits what we can get done. And the amount of energy that we have limits what we can 
+get done. We're far from having any fundamental limits that keep us from advancing. In the meantime, 
+we seek to build better and more energy efficient computers. This little computer, the the 
+big version of it was $250,000 - Pick up? - Yeah Yeah that's little baby DIGITS yeah. This is 
+an AI supercomputer. The version that I delivered, this is just a prototype so it's a mockup.
+The very first version was DGX 1, I delivered to Open AI in 2016 and that was $250,000. 
+10,000 times more power, more energy necessary than this version and this version has six times 
+more performance. I know, it's incredible. We're in a whole in the world. And it's only since 2016 
+and so eight years later we've in increased the energy efficiency of computing by 10,000 times. 
+And imagine if we became 10,000 times more energy efficient or if a car was 10,000 times more 
+energy efficient or electric light bulb was 10,000 times more energy efficient. Our light 
+bulb would be right now instead of 100 Watts, 10,000 times less producing the same illumination. 
+Yeah and so the energy efficiency of computing particularly for AI computing that we've 
+been working on has adva
+-> summary ->
+*   Current computational limitations are fundamentally shaped by the physical constraints of information transport and the energy required for bit manipulation, differing significantly from traditional CPU improvements.
+*   Energy expenditure remains a primary determinant of computing capabilities, presenting a key area of focus for technological advancement.
+*   Significant strides in computing efficiency have been achieved, with energy efficiency increasing by a factor of 10,000 since 2016, exemplified by the DIGITS AI supercomputer prototype.
+*   The pursuit of greater energy efficiency in computing, particularly within AI applications, represents a transformative opportunity with implications extending beyond just computational performance.

@@ -1,0 +1,30 @@
+hat feeling should be universal.
+If there's one thing that I would encourage everybody to do is to go get yourself 
+an AI tutor right away. And that AI tutor could of course just teach your things, anything you 
+like, help you program, help you write, help you analyze, help you think, help you reason, 
+you know all of those things is going to really make you feel empowered and and I think 
+that going to be our future. We're going to become, we're going to become super humans, 
+not because we have super, we're going to become super humans because we have super AIs. Could you 
+tell us a little bit about each of these objects? This is a new GeForce graphics card and yes and 
+this is the RTX 50 Series. It is essentially a supercomputer that you put into your PC and we 
+use it for gaming, of course people today use it for design and creative arts and it does amazing 
+AI. The real breakthrough here and this is this is truly an amazing thing, GeForce 
+enabled AI and it enabled Geoff Hinton, Ilya Sutskever, Alex Krizhevsky to be able to train AlexNet. We
+discovered AI and we advanced AI then AI came back to GeForce to help computer graphics. And so here's 
+the amazing thing: Out of 8 million pixels or so in a 4K display we are computing, we're processing 
+only 500,000 of them. The rest of them we use AI to predict. The AI guessed it and yet the image is 
+perfect. We inform it by the 500,000 pixels that we computed and we ray traced every single one and it's 
+all beautiful. It's perfect. And then we tell the AI, if these are the 500,000 perfect pixels in this 
+screen, what are the other 8 million? And it goes it fills in the rest of the screen and it's perfect.
+And if you only have to do fewer pixels, are you able to invest more in doing that because you have 
+fewer to do so then the quality is better so the extrapolation that the AI does... Exactly. Because 
+whatever computing, whatever attention you have, whatever resources you have, you can place it into 
+500,000 pixels. 
+-> summary ->
+*   The widespread adoption of AI tutors is advocated to foster a sense of empowerment and represent a transformative future where individuals leverage artificial intelligence to enhance their capabilities.
+
+*   New GeForce RTX 50 Series graphics cards incorporate AI technology, functioning as miniature supercomputers primarily utilized for gaming, design, and creative applications, while also facilitating advancements in artificial intelligence.
+
+*   A key innovation involves the use of AI to predict and complete missing pixels within high-resolution displays, reducing computational demands by leveraging AI to extrapolate image details, enabling higher quality outputs.
+
+*   This process involves a strategic allocation of computing resources, prioritizing the detailed rendering of 500,000 pixels while utilizing AI to predict and complete the remaining pixels, thereby optimizing resource utilization and image fidelity.

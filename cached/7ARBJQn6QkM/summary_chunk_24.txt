@@ -1,0 +1,27 @@
+Now this is a perfect example of why AI is going to make us all superhuman, because 
+all of the other things that it can do, it'll do for us, allows us to take our time and energy and 
+focus it on the really really valuable things that we do. And so we'll take our own resource which is 
+you know energy intensive, attention intensive, and we'll dedicated to the few 100,000 pixels and 
+use AI to superres, upres it you know to everything else. And so this this graphics card 
+is now powered mostly by AI and the computer graphics technology inside is incredible as 
+well. And then this next one, as I mentioned earlier, in 2016 I built the first one for AI 
+researchers and we delivered the first one to Open AI and Elon was there to receive it and this 
+version I built a mini mini version and the reason for that is because AI has now gone from AI 
+researchers to every engineer, every student, every AI scientist. And AI is going to be everywhere. 
+And so instead of these $250,000 versions we're going to make these $3,000 versions and schools 
+can have them, you know students can have them, and you set it next to your PC or Mac and all of 
+a sudden you have your own AI supercomputer. And you could develop and build AIs. Build your own 
+AI, build your own R2-D2. What do you feel like is important for this audience to know that I haven't 
+asked? One of the most important things I would advise is for example if I were a student today 
+the first thing I would do is to learn AI. How do I learn to interact with ChatGPT, how do I learn 
+to interact with Gemini Pro, and how do I learn to interact with Grok? Learning how to
+interact with with AI is not unlike being someone who is really good at asking questions. 
+You're incredibly good at asking questions and and prompting AI is very very similar.
+You can't just randomly ask a bunch of questions and so asking an AI to be assistant 
+to you requires some expertise and artistry and how to prompt it. And so if I were, 
+if I were a student
+-> summary ->
+*   Artificial intelligence will fundamentally alter human capabilities by automating routine tasks, enabling individuals to dedicate their cognitive resources to uniquely valuable endeavors.
+*   The accessibility of AI technology is projected to dramatically increase, transitioning from specialized, high-cost research systems to widely available, affordable consumer-grade devices.
+*   The proliferation of AI is anticipated across diverse professional and educational sectors, representing a shift towards ubiquitous integration within computing infrastructure.
+*   Effective interaction with advanced AI models necessitates a focus on developing sophisticated prompting skills, mirroring the expertise required for skilled questioning and requiring artistic aptitude for optimal outcomes.

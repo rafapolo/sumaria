@@ -1,0 +1,26 @@
+language model. Just like ChatGPT was a language model, this is a world model. The second thing we have to 
+go do is we have to do the same thing that we did with PDFs and context and grounding it with 
+ground truth. And so the way we augment Cosmos with ground truth is with physical simulations, 
+because Omniverse uses physics simulation which is based on principled solvers. The mathematics 
+is Newtonian physics is the, right, it's the math we know, all of the the fundamental laws of 
+physics we've understood for a very long time. And it's encoded into, captured into Omniverse. 
+That's why Omniverse is a simulator. And using the simulator to ground or to condition Cosmos, we can 
+now generate an infinite number of stories of the future. And they're grounded on physical truth. Just 
+like between PDF or search plus ChatGPT, we can generate an infinite amount of interesting things, 
+answer a whole bunch of interesting questions. The combination of Omniverse plus Cosmos, you could 
+do that for the physical world. So to illustrate this for the audience, if you had a robot in a 
+factory and you wanted to make it learn every route that it could take, instead of manually 
+going through all of those routes, which could take days and could be a lot of wear and tear on 
+the robot, we're now able to simulate all of them digitally in a fraction of the time and in many 
+different situations that the robot might face - it's dark, it's blocked it's etc - so the robot 
+is now learning much much faster. It seems to me like the future might look very different than 
+today. If you play this out 10 years, how do you see people actually interacting with this technology 
+in the near future? Cleo, everything that moves will be robotic someday and it will be soon. You 
+know the the idea that you'll be pushing around a lawn mower is already kind of silly. You know 
+maybe people do it because because it's fun but but there's no need to. And every car is 
+going to be robotic. Humanoid robots,
+-> summary ->
+*   The system, analogous to language models like ChatGPT, leverages a “world model” driven by simulation.
+*   Grounding the model’s output is achieved through integration with physical simulations based on established Newtonian physics.
+*   This approach enables the generation of an unlimited number of future scenarios, anchored in verifiable physical realities.
+*   The combination of simulation and the world model promises significantly accelerated learning and adaptation, impacting areas like robotics and automation.

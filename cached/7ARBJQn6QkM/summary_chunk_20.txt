@@ -1,0 +1,30 @@
+n AI - self-driving cars, and we're going to 
+be right on robotics and - this is my question. What are the bets you're making now? the latest bet we
+just described at the CES and I'm very very proud of it and I'm very excited about it is the 
+fusion of Omniverse and Cosmos so that we have this new type of generative world generation 
+system, this multiverse generation system. I think that's going to be profoundly important in 
+the future of robotics and physical systems. Of course the work that we're doing with human 
+robots, developing the tooling systems and the training systems and the human demonstration 
+systems and all of this stuff that that you've already mentioned, we're just seeing the 
+beginnings of that work and I think the next 5 years are going to be very interesting in 
+the world of human robotics. Of course the work that we're doing in digital biology so that 
+we can understand the language of molecules and understand the language of cells and just as 
+we understand the language of physics and the physical world we'd like to understand the language 
+of the human body and understand the language of biology. And so if we can learn that, and we can 
+predict it. Then all of a sudden our ability to have a digital twin of the human is plausible. 
+And so I'm very excited about that work. I love the work that we're doing in climate science 
+and be able to, from weather predictions, understand and predict the high resolution regional climates, 
+the weather patterns within a kilometer above your head. That we can somehow predict that with 
+great accuracy, its implications is really quite profound. And so the number of things that 
+we're working on is really cool. You know we we're fortunate that we've created this 
+this instrument that is a time machine and we need time machines in all of these areas that 
+we just talked about so that we can see the future. And if we could see the future and 
+we can predict the future then we have a better chance of making tha
+-> summary ->
+*   Significant investment is being directed towards the integration of Omniverse and Cosmos to establish a novel generative world system, deemed crucial for the advancement of robotics and physical systems.
+
+*   Ongoing research focuses on human-robot interaction, specifically the development of tooling systems, training methodologies, and human demonstration technologies, anticipating transformative developments over the next five years.
+
+*   Exploration of digital biology is central, with the goal of deciphering the “language” of molecules and cells to create accurate digital twins of the human body and predict biological processes.
+
+*   Research extends into climate science, prioritizing high-resolution regional climate prediction and weather pattern forecasting to unlock profound implications for understanding and addressing environmental challenges.

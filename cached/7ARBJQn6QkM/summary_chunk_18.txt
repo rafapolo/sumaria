@@ -1,0 +1,27 @@
+ely recognizable as a 
+transformer years from now. And we believe the latter. And the reason for that is because you 
+just have to go back in history and ask yourself, in the world of computer algorithms, in 
+the world of software, in the world of engineering and innovation, has one idea stayed 
+along that long? And the answer is no. And so that's kind of the beauty, that's in fact 
+the essential beauty of a computer that it's able to do something today that no one even imagined 
+possible 10 years ago. And if you would have, if you would have turned that computer 10 years ago 
+into a microwave, then why would the applications keep coming? And so we believe, we believe in the 
+richness of innovation and the richness of invention and we want to create an 
+architecture that let inventors and innovators and software programmers and AI researchers 
+swim in the soup and come up with some amazing ideas. Look at transformers. The fundamental 
+characteristic of a transformer is this idea called "attention mechanism" and it basically says 
+the transformer is going to understand the meaning and the relevance of every single word with every 
+other word. So if you had 10 words, it has to figure out the relationship across 10 of them. But if you 
+have a 100,000 words or if your context is now as large as, read a PDF and that read a whole 
+bunch of PDFs, and the context window is now like a million tokens, the processing all of it across 
+all of it is just impossible. And so the way you solve that problem is there all kinds of new ideas, 
+flash attention or hierarchical attention or you know all the, wave attention I just read about 
+the other day. The number of different types of attention mechanisms that have been invented 
+since the transformer is quite extraordinary. And so I think that that's going to continue 
+and we believe it's going to continue and that that computer science hasn't ended and that AI 
+research have not all given up and we haven't given up anyhow and that h
+-> summary ->
+*   The design emphasizes a fundamentally adaptable architecture, mirroring the historical trend of computer algorithms continually evolving beyond initial conceptions.
+*   A core principle involves the “attention mechanism,” enabling processors to dynamically assess the relationships between all elements within a given context, scaling to extremely large datasets like extensive text documents.
+*   The architecture is conceived to foster a vibrant ecosystem of invention, accommodating a diverse range of computational approaches, including novel attention mechanisms like flash attention and hierarchical attention.
+*   The underlying belief is that computer science and AI research are ongoing fields of innovation, anticipating and accommodating continued advancements in computational techniques.

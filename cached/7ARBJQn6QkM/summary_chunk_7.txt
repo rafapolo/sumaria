@@ -1,0 +1,30 @@
+hine learning is so vast that it has the potential of 
+reshaping the computer industry altogether, which prompted us to re-engineer the entire 
+computing stack which is where DGX came from and this little baby DGX sitting here, all of 
+this came from from that observation that we ought to reinvent the entire computing stack layer by 
+layer by layer. You know computers, after 65 years since IBM System 360 introduced modern general 
+purpose computing, we've reinvented computing as we know it. To think about this as a whole story, so 
+parallel processing reinvents modern gaming and revolutionizes an entire industry then that way 
+of computing that parallel processing begins to be used across different industries. You invest 
+in that by building CUDA and then CUDA and the use of GPUs allows for a a step change in neural 
+networks and machine learning and begins a sort of revolution that we're now seeing only 
+increase in importance today... All of a sudden computer vision is solved. All of a sudden speech 
+recognition is solved. All of a sudden language understanding is solved. These incredible 
+problems associated with intelligence one by one by one by one where we had no solutions 
+for in past, desperate desire to have solutions for, all of a sudden one after another get solved 
+you know every couple of years. It's incredible. Yeah so you're seeing that, in 2012 you're 
+looking ahead and believing that that's the future that you're going to be living in now, 
+and you're making bets that get you there, really big bets that have very high stakes. And then my 
+perception as a lay person is that it takes a pretty long time to get there. You make these bets - 
+8 years, 10 years - so my question is: If AlexNet that happened in 2012 and this audience 
+is probably seeing and hearing so much more about AI and NVIDIA specifically 10 years later, 
+why did it take a decade and also because you had placed those bets, what did the middle 
+of that decade feel like for you? Wow that'
+-> summary ->
+The rapid expansion of machine learning necessitated a fundamental re-engineering of the computing stack, leading to the development of DGX. 
+
+Significant advancements in parallel processing, facilitated by CUDA and GPU technology, drove a transformative shift across various industries, particularly in neural networks.
+
+The emergence of solutions to previously intractable problems within computer vision, speech recognition, and language understanding occurred at an accelerated pace, largely due to advancements in GPU-accelerated computing.
+
+Strategic investments in this area, beginning in 2012, represented high-stakes bets concerning the future of artificial intelligence, with a considerable time lapse between initial investment and observable results.

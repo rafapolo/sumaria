@@ -1,0 +1,30 @@
+, we could create new technology. And that 
+flywheel between technology and market and greater technology was really the flywheel that 
+got NVIDIA to become one of the most important technology companies in the world. It was all 
+because of video games. I've heard you say that GPUs were a time machine? Yeah. Could you tell me 
+more about what you meant by that? A GPU is like a time machine because it lets you see the future 
+sooner. One of the most amazing things anybody's ever said to me was a quantum chemistry 
+scientist. He said, Jensen, because of NVIDIA's work, I can do my life's work in my lifetime. That's time 
+travel. He was able to do something that was beyond his lifetime within his lifetime and this is 
+because we make applications run so much faster and you get to see the future. And so when you're 
+doing weather prediction for example, you're seeing the future when you're doing a simulation 
+a virtual city with virtual traffic and we're simulating our self-driving car through 
+that virtual city, we're doing time travel. So parallel processing takes off in gaming and it's 
+allowing us to create worlds in computers that we never could have before and and gaming is sort 
+of this this first incredible cas Cas of parallel processing unlocking a lot more power and then 
+as you said people begin to use that power across many different industries. The case of the of the 
+quantum chemistry researcher, when I've heard you tell that story it's that he was running molecular 
+simulations in a way where it was much faster to run in parallel on NVIDIA GPUs even then than it 
+was to run them on the supercomputer with the CPU that he had been using before. Yeah that's true. So 
+oh my god it's revolutionizing all of these other industries as well, it's beginning to change 
+how we see what's possible with computers and my understanding is that in the early 2000s you 
+see this and you realize that actually doing that is a little bit difficult because what that 
+researcher 
+-> summary ->
+NVIDIA’s success is fundamentally driven by the synergistic relationship between technological innovation and market adoption, functioning as a key “flywheel.”
+
+The company’s graphical processing units (GPUs) enable accelerated computation, facilitating a “time-travel” effect by allowing users to observe future outcomes more rapidly.
+
+This capability is particularly evident in computationally intensive fields such as weather prediction, virtual simulations, and autonomous vehicle development.
+
+The initial momentum derived from parallel processing within the gaming industry has since expanded across diverse sectors, dramatically altering perceptions of computer processing potential.

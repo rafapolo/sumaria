@@ -1,0 +1,26 @@
+nced incredibly and that's essential because we want to create you 
+know more intelligent systems and and we want to use more computation to be smarter and so 
+energy efficiency to do the work is our number one priority. When I was preparing for this interview, I 
+spoke to a lot of my engineering friends and this is a question that they really wanted me to ask. So 
+you're really speaking to your people here. You've shown a value of increasing accessibility 
+and abstraction, with CUDA and allowing more people to use more computing power in all kinds of 
+other ways. As applications of technology get more specific, I'm thinking of transformers in AI for 
+example... For the audience, a transformer is a very popular more recent structure of AI that's now 
+used in a huge number of the tools that you've seen. The reason that they're popular is because 
+transformers are structured in a way that helps them pay "attention" to key bits of information and 
+give much better results. You could build chips that are perfectly suited for just one kind of AI 
+model, but if you do that then you're making them less able to do other things. So as these specific 
+structures or architectures of AI get more popular, my understanding is there's a debate between how 
+much you place these bets on "burning them into the chip" or designing hardware that is very specific 
+to a certain task versus staying more general and so my question is, how do you make those bets? How 
+do you think about whether the solution is a car that could go anywhere or it's really optimizing 
+a train to go from A to B? You're making bets with huge stakes and I'm curious how you think 
+about that. Yeah and that now comes back to exactly your question, what are your 
+core beliefs? And the question, the core belief either one, that transformer is the last AI 
+algorithm, AI architecture that any researcher will ever discover again, or that transformers 
+is a stepping stone towards evolutions of transformers that are uh bar
+-> summary ->
+*   The primary focus is on energy efficiency within computing systems, recognizing its critical role in developing more sophisticated AI technologies.
+*   Increasing accessibility and abstraction through technologies like CUDA are acknowledged as a key strategy for expanding computational power utilization.
+*   A central debate exists concerning hardware design, specifically the balance between creating highly specialized chips tailored to particular AI architectures versus developing more general-purpose systems.
+*   The core belief regarding the future of AI architecture is being examined, with a consideration of whether transformer models represent a definitive endpoint or merely a transitional phase for subsequent advancements.
