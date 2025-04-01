@@ -61,7 +61,7 @@ saved at ./cached/7ARBJQn6QkM/summary.txt
 in 138.48 seconds
 ```
 
-Took up to 2 minutes on a Mac M4 Apple M4 10-core GPU to be generated.
+Took ~2 minutes on a Mac M4 Apple M4 10-core GPU to be generated.
 
 See original [transcript](cached/7ARBJQn6QkM/transcript.txt) and resulting [summary](cached/7ARBJQn6QkM/summary.txt).
 
