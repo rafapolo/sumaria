@@ -78,6 +78,6 @@ Sobre Fragmentos, Sentido e a Busca por Clareza
 
 Limitados pelos tokens do modelo, somos levados a fragmentar o todo — quebrando o fluxo contínuo da fala em blocos digeríveis. Trocamos continuidade por viabilidade, esculpindo uma transcrição extensa em pedaços de 2 mil caracteres. Cada fragmento é instruído a responder seus quatro pontos-chave, mas ao multiplicar isso por dezenas de partes, não se sintetiza holísticamente — acumulam-se fragmentos.
 
-Sonhamos com um resumo que soe como música: íntegro, fluido, intuitivo. Que a atenção do modelo seja conduzida não apenas à superfície, mas ao sentido original, à narrativa, à verdade da compreensão. Para chegar lá, é preciso nos desfragmentar. Que nenhuma frase seja cortada no meio do pensamento, que nenhuma palavra seja partida ao meio - ou que rasgue em loop toda representação da representação?
+Sonhamos com um resumo que soe como música: íntegro, fluido, intuitivo. Que a atenção do modelo seja conduzida não apenas à superfície, mas ao sentido original, à narrativa, à verdade da compreensão. Para chegar lá, é preciso nos desfragmentar. Que nenhuma frase seja cortada no meio do pensamento, que nenhuma palavra seja partida ao meio - ou que se rasgue em loop como representação da representação?
 
 Aqui delineamos os limites da síntese rasa — até que ela aprenda a respeitar a voz de quem fala.
