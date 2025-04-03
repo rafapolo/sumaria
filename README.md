@@ -1,4 +1,4 @@
-An experiment using Python and Co-Pilot to summarize youtube videos prompting open-source LLM [models](https://ollama.com/search).
+An experiment using Python and Co-Pilot to summarize youtube videos, prompting open-source LLM [models](https://ollama.com/search).
 
 # SumarIA
 
