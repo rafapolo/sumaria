@@ -63,7 +63,7 @@ in 138.48 seconds
 
 Took ~2 minutes on a Mac M4 Apple M4 10-core GPU to be generated.
 
-See original [transcript](cached/7ARBJQn6QkM/transcript.txt) and resulting [summary](cached/7ARBJQn6QkM/summary.txt).
+See original [transcript](cached/7ARBJQn6QkM/transcript.txt) and resulting [summary](cached/7ARBJQn6QkM/summary.txt) from [current prompt](https://github.com/rafapolo/sumaria/blob/37268a0eb24301b522c1390c3125248b82f7560a/src/summarizer.py#L7).
 
 ## Notes
 
