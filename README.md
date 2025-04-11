@@ -1,4 +1,4 @@
-An experiment using Co-Pilot and prompting to summarize youtube videos as key-points text with open-source [models](https://ollama.com/search) and Python.
+An experiment using Co-Pilot and Python to prompt and summarize youtube videos main topics and key-points using [open LLM models](https://ollama.com/search) .
 
 # SumarIA
 
@@ -55,15 +55,20 @@ $ python src/sumaria.py 7ARBJQn6QkM
 = Sumaria =
 Fetching transcript for video 7ARBJQn6QkM
 languages: en
+
 Generating summary...
-ingesting 28 chunks of 2000 chars...
-saved at ./cached/7ARBJQn6QkM/summary.txt 
-in 138.48 seconds
+- AI and Technology
+- Impact of AI on Various Fields
+- Responsibility in Technology Development
+- Influence of Gaming Industry
+
+saved at ./cached/7ARBJQn6QkM/summary.md
+in 50.18 seconds
 ```
 
-Took ~2 minutes on a Mac M4 Apple M4 10-core GPU to be generated.
+Took ~1 minute on a Mac M4 Apple M4 10-core GPU to be generated.
 
-See original [transcript](cached/7ARBJQn6QkM/transcript.txt) and resulting [summary](cached/7ARBJQn6QkM/summary.txt).
+See original [transcript](cached/7ARBJQn6QkM/transcript.txt) and resulting [summary](cached/7ARBJQn6QkM/summary.md).
 
 ## Notes
 

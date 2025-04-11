@@ -44,17 +44,19 @@ class Summarizer:
         except json.JSONDecodeError as e:
             print(f"Error parsing summary as JSON: {e}")
             themes = []
-        
+
         summaries = [one_line]
         for theme in themes:            
             title = theme.get("title", "")
-            print(title)
+            print(f"- {title}")
             theme_summary = self.prompt(
                 f"Summarize the theme: \"{title}\" from this transcript. Use 3–5 bullet points. Be specific."
             )
             summaries.append(f"### {title}\n\n{theme_summary}")
 
         summary = "\n\n".join(summaries)
-        open(f"./cached/{video_id}/summary.md", "w").write(summary)
+        md_file = f"./cached/{video_id}/summary.md"
+        open(md_file, "w").write(summary)
+        print(f"\nsaved at {md_file}")
         
         return summary

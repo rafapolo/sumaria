@@ -11,9 +11,7 @@ class Sumaria:
         if transcript:
             print("\nGenerating summary...")
             summary = Summarizer().summarize(transcript, video_id)
-            if summary:
-                print("\nSummary:\n", summary)
-            else:
+            if not summary:
                 print("Failed to generate summary.")
         else:
             print("Failed to fetch the transcript.")
