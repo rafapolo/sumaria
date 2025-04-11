@@ -59,8 +59,8 @@ $ pip install -r requirements.txt
 
 3. Use local [llama](https://ollama.com/) models
 ```
-$ llama install gemma3
-$ llama serve # at http://localhost:11434
+$ ollama serve # at http://localhost:11434 
+$ ollama pull mistral:instruct
 ```
 
 ## Notes
