@@ -1,46 +1,60 @@
-import requests
 import re
+import requests
+from semantic_tokenizer import SemanticTokenizer
+import json
 
 class Summarizer:
-
-    PROMPT_TEMPLATE = (
-        "Summarize the following transcript into a clear, executive summary without an intro paragraph, "
-        "with exactly 4 key bullet points in the same original language about what is discussed. "
-        "Avoid notes, avoid quoting the reader, and instead paraphrase in concise academic language "
-        "that captures the essence of the sentences. Do not refer to yourself, and do not explain your choices."
-    )
 
     def prompt(self, text):
         model_url = "http://localhost:11434/api/generate"
         payload = {            
-            "model": "gemma3",
+            "model": "mistral:instruct",
             "stream": False,
             "prompt": text,
+            "options": {
+                "temperature": 0.7,
+                "top_p": 0.9,
+                "num_predict": 512  # Equivalent to max_new_tokens
+            }
         }
         try:
             response = requests.post(model_url, json=payload)
             response.raise_for_status()
-            summary = response.json().get("response", "")
-            return summary
+            return response.json().get("response", "")
         except requests.exceptions.RequestException as e:
             print(f"Error communicating with the model: {e}")
 
     def summarize(self, transcript, video_id):
-        chunk_size = 2000
-        chunks = [transcript[i:i + chunk_size] for i in range(0, len(transcript), chunk_size)]
-        print(f"ingesting {len(chunks)} chunks of {chunk_size} chars...")
+        summary = self.prompt(
+            "Have a 4 line summary of the video transcript and extract the 4 main themes in this transcript:\n\n"
+            f"{transcript}\n\n"
+            "Format:\n"
+            "{\n"
+            "  \"line-summary\": \"Example summary\"},\n"
+            "  \"themes\": [\n"
+            "    { \"title\": \"Example Theme\"},\n"
+            "    ...\n"
+            "  ]\n"
+            "}"
+        )
 
-        summaries = []
-        for chunk in chunks:
+        try:
+            themes = json.loads(summary).get("themes", [])
+            one_line = json.loads(summary).get("line-summary", "")
+        except json.JSONDecodeError as e:
+            print(f"Error parsing summary as JSON: {e}")
+            themes = []
         
-            chunk_summary = self.prompt(f"{self.PROMPT_TEMPLATE} (Transcript: {chunk})")
-            summaries.append(chunk_summary)            
-            open(f"./cached/{video_id}/summary_chunk_{chunks.index(chunk)}.txt", "w").write(f"{chunk}\n-> summary ->\n{chunk_summary}")
-        
-        summary = '\n'.join(summaries)
-        # clean up the summary
-        summary = re.sub(r'Executive Summary:\s*', '', summary)
-        summary = re.sub(r'(\*\s+.*?)\n{2,}(?=\*\s+)', r'\1\n', summary, flags=re.DOTALL)
-        open(f"./cached/{video_id}/summary.txt", "w").write(summary)
+        summaries = [one_line]
+        for theme in themes:            
+            title = theme.get("title", "")
+            print(title)
+            theme_summary = self.prompt(
+                f"Summarize the theme: \"{title}\" from this transcript. Use 3–5 bullet points. Be specific."
+            )
+            summaries.append(f"### {title}\n\n{theme_summary}")
+
+        summary = "\n\n".join(summaries)
+        open(f"./cached/{video_id}/summary.md", "w").write(summary)
         
         return summary
