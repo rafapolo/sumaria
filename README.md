@@ -17,34 +17,9 @@ sumaria
 └── README.md                 # Project documentation
 ```
 
-## Installation
+## Usage & Example
 
-1. Clone the repository:
-
-2. Install the required dependencies:
-- `requests`
-- `youtube-transcript-api`
-```
-$ pip install -r requirements.txt
-```
-
-
-3. Use local [llama](https://ollama.com/) models
-```
-$ llama install gemma3
-$ llama serve # at http://localhost:11434
-```
-
-## Usage
-
-To run the application, use the following command, replacing `<video_id>` with the ID of the YouTube video you want to summarize:
-
-```
-$ python src/sumaria.py <video_id>
-```
-
-
-## Example
+Use Sumaria replacing `<video_id>` with the ID of the YouTube video you want to summarize:
 
 Summarizing [NVIDIA CEO Jensen Huang's Vision for the Future
 ](https://www.youtube.com/watch?v=7ARBJQn6QkM) 1-hour long interview:
@@ -69,6 +44,24 @@ in 50.18 seconds
 Took ~1 minute on a Mac M4 Apple M4 10-core GPU to be generated.
 
 See original [transcript](cached/7ARBJQn6QkM/transcript.txt) and resulting [summary](cached/7ARBJQn6QkM/summary.md).
+
+## Installation
+
+1. Clone the repository:
+
+2. Install the required dependencies:
+- `requests`
+- `youtube-transcript-api`
+```
+$ pip install -r requirements.txt
+```
+
+
+3. Use local [llama](https://ollama.com/) models
+```
+$ llama install gemma3
+$ llama serve # at http://localhost:11434
+```
 
 ## Notes
 
