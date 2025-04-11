@@ -19,7 +19,7 @@ class Sumaria:
             print("Failed to fetch the transcript.")
 
 if __name__ == "__main__":
-    if len(sys.argv) < 2:
+    if len(sys.argv) < 1:
         print("Usage: python app.py <video_id>")
     else:
         print("= Sumaria =")
