@@ -5,6 +5,12 @@ class TranscriptFetcher:
 
     def fetch_transcript(self, video_id):
         try:
+            # check if cached
+            if os.path.exists(f"./cached/{video_id}/transcript.txt"):
+                print("already fetched.")
+                with open(f"./cached/{video_id}/transcript.txt", "r") as file:
+                    return file.read()
+                
             transcript_list = YouTubeTranscriptApi.list_transcripts(video_id)
             # unique languages available
             languages = list(set(transcript.language_code for transcript in transcript_list))
