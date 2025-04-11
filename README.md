@@ -1,8 +1,8 @@
-An experiment using Co-Pilot and Python to prompt and summarize youtube videos main topics and key-points using [open LLM models](https://ollama.com/search) .
+An experiment using Co-Pilot and Python to prompt and summarize youtube videos using [open LLM models](https://ollama.com/search) .
 
 # SumarIA
 
-Sumaria is designed to fetch transcripts from YouTube videos and generate concise summaries using a local LLM model. It consists of three main components: the application entry point, the summarizer, and the transcript fetcher.
+Sumaria is designed to fetch transcripts from YouTube videos and generate concise summaries using a local LLM model. It consists of three main components: the application entry point, the youtube transcript fetcher and the summarizer getting the transcription main themes and key points.
 
 ## Project Structure
 
@@ -10,7 +10,7 @@ Sumaria is designed to fetch transcripts from YouTube videos and generate concis
 sumaria
 ├── src
 │   ├── sumaria.py            # Entry point of the application
-│   ├── summarizer.py         # Class prompting a summary to gemma3 on llama
+│   ├── summarizer.py         # Class prompting main themes and summaries
 │   ├── transcript_fetcher.py # Class for fetching youtube transcripts
 ├── cached                    # Storing cached transcripts and summaries
 ├── requirements.txt          # Project dependencies
@@ -83,6 +83,6 @@ Sobre Fragmentos, Sentido e a Busca por Clareza
 
 Limitados pelos tokens do modelo, somos levados a fragmentar o todo — quebrando o fluxo contínuo da fala em blocos digeríveis. Trocamos continuidade por viabilidade, esculpindo uma transcrição extensa em pedaços de 2 mil caracteres. Cada fragmento é instruído a responder seus quatro pontos-chave, mas ao multiplicar isso por dezenas de partes, não se sintetiza holísticamente — acumulam-se fragmentos.
 
-Sonhamos com um resumo que soe como música: íntegro, fluido, intuitivo. Que a atenção do modelo seja conduzida não apenas à superfície, mas ao sentido original, à narrativa, à verdade da compreensão. Para chegar lá, é preciso nos desfragmentar. Que nenhuma frase seja cortada no meio do pensamento, que nenhuma palavra seja partida ao meio - ou que rasgue em loop toda representação da representação?
+Sonhamos com um resumo que soe como música: íntegro, fluido, intuitivo. Que a atenção do modelo seja conduzida não apenas à superfície, mas ao sentido original, à narrativa, à verdade da compreensão. Para chegar lá, é preciso nos desfragmentar. Que nenhuma frase seja cortada no meio do pensamento, que nenhuma palavra seja partida ao meio - ou que se rasgue em loop como representação da representação?
 
 Aqui delineamos os limites da síntese rasa — até que ela aprenda a respeitar a voz de quem fala.
