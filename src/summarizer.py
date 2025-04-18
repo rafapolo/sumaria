@@ -1,6 +1,5 @@
 import re
 import requests
-from semantic_tokenizer import SemanticTokenizer
 import json
 
 class Summarizer:
